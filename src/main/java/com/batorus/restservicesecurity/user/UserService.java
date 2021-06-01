@@ -1,4 +1,4 @@
-package com.batorus.restservicessecurity.user;
+package com.batorus.restservicesecurity.user;
 
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

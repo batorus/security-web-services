@@ -1,4 +1,4 @@
-package com.batorus.restservicessecurity.user;
+package com.batorus.restservicesecurity.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

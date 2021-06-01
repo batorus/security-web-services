@@ -1,4 +1,4 @@
-package com.batorus.restservicessecurity.configuration;
+package com.batorus.restservicesecurity.configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
