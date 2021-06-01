@@ -1,4 +1,4 @@
-package com.batorus.restservicesecurity.user;
+package com.batorus.restservicessecurity.user;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

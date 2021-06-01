@@ -1,4 +1,4 @@
-package com.batorus.restservicesecurity;
+package com.batorus.restservicessecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

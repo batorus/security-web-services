@@ -1,9 +1,9 @@
-package com.batorus.restservicesecurity.configuration;
+package com.batorus.restservicessecurity.configuration;
 
 import java.util.Collection;
 
-import com.batorus.restservicesecurity.user.User;
-import com.batorus.restservicesecurity.user.UserRepository;
+import com.batorus.restservicessecurity.user.User;
+import com.batorus.restservicessecurity.user.UserRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;

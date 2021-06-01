@@ -1,4 +1,4 @@
-package com.batorus.restservicesecurity.user;
+package com.batorus.restservicessecurity.user;
 
 import javax.persistence.*;
 

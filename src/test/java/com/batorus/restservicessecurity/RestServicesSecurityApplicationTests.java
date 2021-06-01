@@ -1,4 +1,4 @@
-package com.batorus.restservicesecurity;
+package com.batorus.restservicessecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
